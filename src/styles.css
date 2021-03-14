@@ -1,4 +1,22 @@
+/*svg animacion */
+body{
+  padding: 1em;
+  background: white;
+  color: #777;
+  text-align: center;
+  font-family: "Gill sans", sans-serif;
+  width: 100%;
+  margin: 0 auto;
+}
 
+
+/*
+  Color del Loading
+*/
+svg path,
+svg rect{
+  fill: black;
+}
 
 
 .animated {
