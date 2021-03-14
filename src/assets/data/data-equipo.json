@@ -1,0 +1,25 @@
+[
+
+    {
+        "frase":"Esta es la primer persona chida",
+        "nombre":"persona1",
+        "subtitulo":"primero",
+        "twitter":"@persona_1",
+        "url":"https://firebasestorage.googleapis.com/v0/b/angular-html-2512d.appspot.com/o/team-1.jpg?alt=media&token=a8f2e910-cebb-4f09-8e88-ffc5b3180557"
+    },
+    {
+        "frase":"Esta es la segunda persona de las chidas",
+        "nombre":"persona2",
+        "subtitulo":"segundo",
+        "twitter":"@persona_2",
+        "url":"https://firebasestorage.googleapis.com/v0/b/angular-html-2512d.appspot.com/o/team-2.jpg?alt=media&token=f0f41338-ba4f-4aa4-8f7b-9aa0bf4ee660"
+    },
+    {
+        "frase":"El ultimo de los chidos",
+        "nombre":"persona3",
+        "subtitulo":"tercero",
+        "twitter":"@persona_3",
+        "url":"https://firebasestorage.googleapis.com/v0/b/angular-html-2512d.appspot.com/o/team-3.jpg?alt=media&token=f8c4894f-0716-401c-bacb-80baf4cd45fd"
+    }
+
+]
